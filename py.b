@@ -1,3 +1,3 @@
 # instructions:
-# print("Hello, World!") outputs Hello, World!
+# print("Hello World!") outputs Hello World!
 ,[>,]<[<]>>>>>>>>[>]<[-]<[-]<[<]>>>>>>>>[.>]
