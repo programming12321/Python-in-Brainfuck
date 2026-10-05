@@ -24,20 +24,6 @@ The Brainfuck implementation is:
 ,[>,]<[<]>>>>>>>>[>]<[-]<[-]<[<]>>>>>>>>[.>]
 ```
 
-## Example
-
-### PyBrainfuck
-
-```text
-print("Hello World!")
-```
-
-### Output
-
-```text
-Hello World!
-```
-
 ## How It Works
 
 PyBrainfuck translates its higher-level instructions into Brainfuck operations.
