@@ -18,6 +18,20 @@ Output:
 Hello World!
 ```
 
+It also supports line breaks inside strings:
+
+```text
+print("Hello, 
+World!")
+```
+
+Output:
+
+```text
+Hello,
+World!
+```
+
 The Brainfuck implementation is:
 
 ```text
